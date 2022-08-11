@@ -1,0 +1,7 @@
+001 Bao cong true  7 8 9 
+002 Trien Chieu true  8 7
+003 Ly Nuong Nuong false 9 8 9
+004 Hoang Thuong true  6 7 5
+005 Ly Nguyen Ba false   8 4 9
+006 Tran Trong Kim true  6 9 
+007 Cong Ton Sach  false   7 3

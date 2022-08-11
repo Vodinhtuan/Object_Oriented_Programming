@@ -1,0 +1,4 @@
+th13.GiaoDichNha 003 12/12/2002 23000.0 120.0 nha trong kiet 2484000.0
+th13.GiaoDichNha 004 10/1/2001 120000.0 1000.0 nha mat pho 1.2E8
+th13.GiaoDichNha 005 1/2/2002 210000.0 120.0 nha mat pho 2.52E7
+th13.GiaoDichNha 007 11/11/2000 1500000.0 300.0 nha mat pho 4.5E8

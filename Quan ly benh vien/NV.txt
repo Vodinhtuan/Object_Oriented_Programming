@@ -1,0 +1,11 @@
+001 Bao cong true 10/10/2001 500000 0
+002 Trien Chieu true 10/10/2000 100000 1
+003 Ly Nuong Nuong false 10/10/2002 200000 1
+004 Bao cong true 1/1/2001 600000 2
+005 Trien Chieu true 1/1/2000 400000 1
+006 Ly Nuong Nuong false 12/12/2000 800000 1
+007 Hoang Thuong true 10/1/2000 900000 3
+008 Ly Nguyen Ba false 1/2/2002 100000 0
+009 Tran Trong Kim true 12/12/2003 100000 0
+010 Cong Ton Sach false 11/11/2003 200000 2
+

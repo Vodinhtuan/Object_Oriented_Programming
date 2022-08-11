@@ -1,0 +1,11 @@
+001 Bao cong true  10/10/2000 10/10/2000 false
+002 Trien Chieu true  10/10/2000 15/10/2000 true  
+003 Ly Nuong Nuong false  10/10/2000 15/10/2000 true
+004 Bao cong true 1/1/2000 5/2/2000 true
+005 Trien Chieu true 1/1/2000 5/2/2000 false
+006 Ly Nuong Nuong false 12/12/2000 31/12/2000 true
+007 Hoang Thuong true 10/1/2000 10/3/2000 true
+008 Ly Nguyen Ba false 1/2/2000 5/2/2000 false
+009 Tran Trong Kim true 12/12/2000 20/12/2000 false
+010 Cong Ton Sach  false 11/11/2000 11/11/2000 false
+

@@ -1,0 +1,7 @@
+001 Bao cong true  10/10/2000 7 8 9 
+002 Trien Chieu true 1/1/2001 30 15000 ctdl
+003 Ly Nuong Nuong false 12/12/2002 9 8 9
+004 Hoang Thuong true 10/1/2001 6 7 5
+005 Ly Nguyen Ba false  1/2/2002 8 4 9
+006 Tran Trong Kim true 12/12/2003 45 20000 java
+007 Cong Ton Sach  false  11/11/2000 15 100000 Do An

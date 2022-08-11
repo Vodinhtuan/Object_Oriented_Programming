@@ -1,0 +1,7 @@
+001 Bao cong true  Khai Phong Phu 8,9  10/10/2000
+002 Trien Chieu true Khai Phong Phu 9,2 1/1/2001
+003 Ly Nuong Nuong false Hau Cung 4,5 12/12/2002
+004 Hoang Thuong true Hoang Cung 3,7 10/1/2001
+005 Ly Nguyen Ba false Nghe An 5,4 1/2/2002
+006 Tran Trong Kim true Nghe An 3,6 12/12/2003
+007 Cong Ton Sach  false Da Nang 7,9 11/11/2000
