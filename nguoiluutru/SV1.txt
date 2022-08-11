@@ -1,0 +1,8 @@
+001 Trien Chieu true  trienchieu@gmail.com 1/1/2000 Khai Phong Phu 9,2
+002 ly Nuong Nuong false nuongnuong@hotmail.com 10/10/2000 Hau Cung 4,8
+003 Hoang Thuong true vua@dtu.edu.vn 10/12/1999 Hoang Cung Dai Noi 9,8
+004 Bao Cong true baochung@higfood.gov.com 12/12/2000 Nghe An 9,2
+005 Cong Ton Sach true congton@gmil.con 25/12/2000 Khai Phong phu 9,2
+006 Tieu Hiep Ai Ho false tieuhiepiho@hotmil.com 20/10/1998 Nghe An 7,6
+007 Ton Ngo Khong false tonngokhong@hotmil.com 21/12/1999 Hoa Diem Son 9,9
+008 Tru Bat Gioi false trubatgioi@hotmil.com 21/12/1999 Trung Quoc 2,5

@@ -1,0 +1,6 @@
+001 Trien Chieu true 1/1/2000 Khai Phong Phu 9.2
+002 ly Nuong Nuong false 10/10/2000 Hau Cung 4.8
+003 Hoang Thuong true 10/12/1999 Hoang Cung Dai Noi 9.8
+004 Bao Cong true 12/12/2000 Nghe An 9.2
+005 Cong Ton Sach true 25/12/2000 Khai Phong phu 9.2
+006 Tieu Hiep Ai Ho false 20/10/1998 Nghe An 7.6

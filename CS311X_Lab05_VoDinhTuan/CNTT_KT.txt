@@ -1,0 +1,9 @@
+001 Trien Chieu true 7 8 9
+002 Ly Nuong Nuong false 6 7
+003 Hoang Thuong true 7 9 4
+004 Bao Cong true 9 4 8 
+005 Cong Ton Sach true 9 9
+006 Tieu Hiep Ai Ho false 7 9
+007 Vuong Trieu false 8 9 8
+008 Ma Han false 9 6 
+009 Truong Long true 8 7 5

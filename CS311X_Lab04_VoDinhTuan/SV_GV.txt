@@ -1,0 +1,7 @@
+001 Trien Chieu true 1/1/2000 7 8 9
+002 ly Nuong Nuong false 10/10/2000 60 150 Java 
+003 Hoang Thuong true 10/12/1999 7 9 4
+004 Bao Cong true 12/12/2000 9 4 8
+005 Cong Ton Sach true 25/12/2000  45 200 CTDL
+006 Tieu Hiep Ai Ho false 20/10/1998 30 20 CSDL
+007 Vuong trieu false 22/2/2000 75 20 PTTK he thong
